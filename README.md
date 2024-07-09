@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png)(https://rishavchanda.io)
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png)]
 
 <h1 align="center">Hi 👋, I'm Aagman Nag</h1>
 <h3 align="center">Full Stack Developer | Passionate about Code and Creativity 🚀</h3>
