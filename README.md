@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png)]
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQHWjlf6CXDezA/article-cover_image-shrink_720_1280/0/1698039213268?e=1726099200&v=beta&t=DV5GOXx7sO5qecGJBQYMwimkVr3oCsox4Q1-azcJFTU)
 
 <h1 align="center">Hi 👋, I'm Aagman Nag</h1>
 <h3 align="center">Full Stack Developer | Passionate about Code and Creativity 🚀</h3>
